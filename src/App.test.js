@@ -16,7 +16,7 @@ test('renders title',()=>{
 expect(titleElement).toBeInTheDocument();
 });
 
-test('renders novbar',()=>{
+test('renders navbar',()=>{
   render(<App/>); 
   const titleElement = screen.getByText('Home')
 expect(titleElement).toBeInTheDocument();
@@ -29,7 +29,7 @@ expect(titleElement).toBeInTheDocument();
 });
 
 
-test('renders Link',()=>{
+test('renders navLink',()=>{
   render(<App/>); 
   const titleElement = screen.getByText('Help')
 expect(titleElement).toBeInTheDocument();
