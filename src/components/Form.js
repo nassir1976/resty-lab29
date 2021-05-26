@@ -25,9 +25,9 @@ class Form extends React.Component {
 
   render() {
     return (
-      <form onSubmit={this.handleSubmit}>
+      <form data-testid="apiform" onSubmit={this.handleSubmit}>
         <label>
-          <input name="url" value={this.state.url} onChange={this.handleChange} />
+          <input data-testid="url" name="url" value={this.state.url} onChange={this.handleChange} />
         </label>
         <label>
           <input type="radio" name="method" value="get" checked={this.state.method === "get"} onChange={this.handleChange} />
