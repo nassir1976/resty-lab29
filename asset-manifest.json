@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nassir1976/resty-lab29.git/static/css/main.9ffeb030.chunk.css",
-    "main.js": "/nassir1976/resty-lab29.git/static/js/main.7238ef27.chunk.js",
-    "main.js.map": "/nassir1976/resty-lab29.git/static/js/main.7238ef27.chunk.js.map",
-    "runtime-main.js": "/nassir1976/resty-lab29.git/static/js/runtime-main.f54a05be.js",
-    "runtime-main.js.map": "/nassir1976/resty-lab29.git/static/js/runtime-main.f54a05be.js.map",
-    "static/js/2.f24a6960.chunk.js": "/nassir1976/resty-lab29.git/static/js/2.f24a6960.chunk.js",
-    "static/js/2.f24a6960.chunk.js.map": "/nassir1976/resty-lab29.git/static/js/2.f24a6960.chunk.js.map",
-    "static/js/3.23764a45.chunk.js": "/nassir1976/resty-lab29.git/static/js/3.23764a45.chunk.js",
-    "static/js/3.23764a45.chunk.js.map": "/nassir1976/resty-lab29.git/static/js/3.23764a45.chunk.js.map",
-    "index.html": "/nassir1976/resty-lab29.git/index.html",
-    "static/css/main.9ffeb030.chunk.css.map": "/nassir1976/resty-lab29.git/static/css/main.9ffeb030.chunk.css.map",
-    "static/js/2.f24a6960.chunk.js.LICENSE.txt": "/nassir1976/resty-lab29.git/static/js/2.f24a6960.chunk.js.LICENSE.txt"
+    "main.css": "/resty-lab29/static/css/main.9ffeb030.chunk.css",
+    "main.js": "/resty-lab29/static/js/main.8cd9f27c.chunk.js",
+    "main.js.map": "/resty-lab29/static/js/main.8cd9f27c.chunk.js.map",
+    "runtime-main.js": "/resty-lab29/static/js/runtime-main.404e9edb.js",
+    "runtime-main.js.map": "/resty-lab29/static/js/runtime-main.404e9edb.js.map",
+    "static/js/2.f24a6960.chunk.js": "/resty-lab29/static/js/2.f24a6960.chunk.js",
+    "static/js/2.f24a6960.chunk.js.map": "/resty-lab29/static/js/2.f24a6960.chunk.js.map",
+    "static/js/3.23764a45.chunk.js": "/resty-lab29/static/js/3.23764a45.chunk.js",
+    "static/js/3.23764a45.chunk.js.map": "/resty-lab29/static/js/3.23764a45.chunk.js.map",
+    "index.html": "/resty-lab29/index.html",
+    "static/css/main.9ffeb030.chunk.css.map": "/resty-lab29/static/css/main.9ffeb030.chunk.css.map",
+    "static/js/2.f24a6960.chunk.js.LICENSE.txt": "/resty-lab29/static/js/2.f24a6960.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f54a05be.js",
+    "static/js/runtime-main.404e9edb.js",
     "static/js/2.f24a6960.chunk.js",
     "static/css/main.9ffeb030.chunk.css",
-    "static/js/main.7238ef27.chunk.js"
+    "static/js/main.8cd9f27c.chunk.js"
   ]
 }
